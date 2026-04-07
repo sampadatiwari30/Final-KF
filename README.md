@@ -1,4 +1,4 @@
-<img width="1913" height="922" alt="Screenshot 2026-04-07 114415" src="https://github.com/user-attachments/assets/45c1ea49-8475-4b44-a20e-0db05d6cf021" /># 🎨 Kala.Ficial
+# 🎨 Kala.Ficial
 
 ## 🌍 About the Project
 
