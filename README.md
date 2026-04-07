@@ -1,0 +1,1 @@
+Kala.Ficial is a global platform desgined to empower emerging and undiscovered artists by providing opporunities to showcase their work through online and offline exhibitions. The platform enables artists to connect, to connect, collaborate, and stay informed about upcoming exhibitions worldwide.
