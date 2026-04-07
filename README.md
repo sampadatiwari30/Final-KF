@@ -1,4 +1,4 @@
-# 🎨 Kala.Ficial
+<img width="1913" height="922" alt="Screenshot 2026-04-07 114415" src="https://github.com/user-attachments/assets/45c1ea49-8475-4b44-a20e-0db05d6cf021" /># 🎨 Kala.Ficial
 
 ## 🌍 About the Project
 
@@ -26,8 +26,11 @@ Kala.Ficial is a global platform designed to empower emerging and undiscovered a
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="918" alt="Screenshot 2026-04-07 114235" src="https://github.com/user-attachments/assets/7f9718b1-6ff5-4f2a-ab4f-4cbb531e875e" />
+<img width="1920" height="922" alt="Screenshot 2026-04-07 114341" src="https://github.com/user-attachments/assets/dd4b32ce-0e69-40ec-9e5d-554dcb0896d0" />
+<img width="1913" height="922" alt="Screenshot 2026-04-07 114415" src="https://github.com/user-attachments/assets/0eb5080f-456d-4cb9-bdba-fc962d7ab586" />
+<img width="1903" height="912" alt="Screenshot 2026-04-07 114450" src="https://github.com/user-attachments/assets/ab0083b7-e888-4139-9ef7-d3d939a0b893" />
 
-(Add your project screenshots here)
 
 ---
 
